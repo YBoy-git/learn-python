@@ -4,4 +4,3 @@ while True:
         print("This number is odd!")
     elif x % 2 == False:
         print("This number is even!")
-
